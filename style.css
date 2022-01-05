@@ -1041,6 +1041,10 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+  .icon-social {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 /* ------- changement léo ------- */
