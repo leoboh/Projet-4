@@ -1029,3 +1029,10 @@ h4 {
     text-align: center;
   }
 }
+
+/* ------- changement léo ------- */
+
+.img-logo-header {
+  width: auto;
+  height: 40px;
+}
