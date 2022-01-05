@@ -1062,3 +1062,7 @@ h4 {
   width: auto;
   height: auto;
 }
+
+.p-size {
+  font-size: 1em;
+}
