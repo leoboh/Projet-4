@@ -1057,3 +1057,8 @@ h4 {
 .h1-p-color {
   color: black !important;
 }
+
+.img-portfolio {
+  width: auto;
+  height: auto;
+}
