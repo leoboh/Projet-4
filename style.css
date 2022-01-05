@@ -1059,6 +1059,6 @@ h4 {
 }
 
 .img-portfolio {
-  width: 300px;
-  height: 275px;
+  width: auto;
+  height: auto;
 }
