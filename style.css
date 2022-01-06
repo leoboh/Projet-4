@@ -1028,12 +1028,20 @@ h4 {
     width: 180px;
     height: 320px;
   }
+  .icon-social {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 @media (max-width: 400px) {
   .bloc {
     padding-left: 0;
     padding-right: 0;
+  }
+  .icon-social {
+    display: flex;
+    justify-content: space-between;
   }
 }
 
@@ -1063,7 +1071,7 @@ h4 {
 }
 
 .img-portfolio {
-  width: auto;
+  width: 100%;
   height: auto;
 }
 
